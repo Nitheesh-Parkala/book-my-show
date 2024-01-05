@@ -7,9 +7,9 @@
 
 
 # pages:                                     HOCs(Layout)
-  >> Home.page.jsx                          Default.Hoc.jsx
-  >> Movie.Page.jsx                         Movie.Hoc.jsx
-  >>Play.page.jsx                           Default.Hoc.jsx
+  >> Home.page.jsx                          Default.layout.jsx
+  >> Movie.Page.jsx                         Movie.layout.jsx
+  >>Play.page.jsx                           Default.layout.jsx
 
 # Components:
 >> Cast                          cast.Components.jsx
@@ -34,6 +34,7 @@
                 npm install slick-carousel
  >>Axios: npm i axios
  >>HeadlessUI:npm install @headlessui/react
+ >> REACT Router Dom: npm i  react-router-dom
 
 
 
