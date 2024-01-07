@@ -10,7 +10,8 @@ import "slick-carousel/slick/slick-theme.css";
 // import HomePage from './pages/Home.page';
 import HomePage from "../src/pages/Home.Page"
 import MoviePage from './pages/Movie.Page';
-import PlayPage from "../src/pages/Play.Page";
+import PlayPage from "./pages/Play.Page";
+
 
 
 function App() {
